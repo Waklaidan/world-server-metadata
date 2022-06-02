@@ -1,3 +1,9 @@
+
+<style>
+#основное {
+    background: url(https://i.imgur.com/RGXrBHu.gif);
+}
+</style>
 <style>
 :root {
     --bg_h: #1d2021;
